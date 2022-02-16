@@ -1,6 +1,3 @@
-                                                                     Tokyo Ghoul Dark 1.0.0
-
-
 setup 1: go to 
 https://betterdiscord.app/
 doawnload Better Discord
