@@ -1,2 +1,7 @@
-# Tokyo_ghoul_dark
-Tokyo_ghuol_dark_theme
+# Tokyo_ghoul_dark 1.0.0 Doawnload
+
+Hello,
+
+Tokyo Ghoul Dark is for Better Discord
+
+enjoy
