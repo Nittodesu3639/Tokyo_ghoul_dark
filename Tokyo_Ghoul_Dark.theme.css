@@ -1,0 +1,21 @@
+/**
+ * @name Tokyo Ghoul Dark
+ * @author Nittōdesu#3639
+ * @version 1.0.0
+ * @description Co0l Theme :)
+ * @source Not Find
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+
+/* By AmirSAni */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://cdn.wallpapersafari.com/25/10/3faldh.jpg');
+    --home-image: url('https://cdn.discordapp.com/attachments/886505798354763776/943057037011611668/ken-kaneki-tokyo-ghoul2.gif');
+    --background-solid: #161921;
+    --background-solid-dark: #101218;
+    --background-solid-darker: #0c0e12;
+    --accent: 37, 172, 232;
+    --accent-alt: 29, 101, 134;
+}
